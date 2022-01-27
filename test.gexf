@@ -9,6 +9,21 @@
       <attribute id="adb_id" title="db_id" type="integer"></attribute>
       <attribute id="aurl" title="url" type="string"></attribute>
       <attribute id="adesc_01" title="desc_01" type="string"></attribute>
+      <attribute id="atype" title="type" type="string"></attribute>
+      <attribute id="acategory" title="Category" type="string"></attribute>
+      <attribute id="asubcategory" title="Sub-category" type="string"></attribute>
+      <attribute id="anb_of_languages" title="Count of Languages" type="string"></attribute>
+      <attribute id="alanguages" title="Languages" type="string"></attribute>
+      <attribute id="amain_language" title="Main language" type="string"></attribute>
+      <attribute id="ainteraction" title="Interaction" type="string"></attribute>
+      <attribute id="aextension_url" title="Top Level Domain" type="string"></attribute>
+      <attribute id="aaddressee_user" title="Addressee User" type="string"></attribute>
+      <attribute id="alocation_whois" title="Location (by Whois)" type="string"></attribute>
+      <attribute id="alocation_website" title="Website Location" type="string"></attribute>
+      <attribute id="alocalisation_user_country" title="Country Localisation of Users" type="string"></attribute>
+      <attribute id="alocalisation_user" title="Localisation of Users" type="string"></attribute>
+      <attribute id="aarchiving_frequence" title="archiving_frequence" type="string"></attribute>
+      <attribute id="ablabla" title="blabla" type="string"></attribute>
     </attributes>
     <nodes>
       <node id="1" label="http://maes.blogfree.net/">
@@ -17,6 +32,19 @@
           <attvalue for="aurl" value="http://maes.blogfree.net/"></attvalue>
           <attvalue for="adesc_01" value="corpus"></attvalue>
           <attvalue for="atype" value="corpus"></attvalue>
+          <attvalue for="acategory" value="community"></attvalue>
+          <attvalue for="asubcategory" value="information"></attvalue>
+          <attvalue for="anb_of_languages" value="2"></attvalue>
+          <attvalue for="alanguages" value="spanish|arabic"></attvalue>
+          <attvalue for="amain_language" value="spanish"></attvalue>
+          <attvalue for="ainteraction" value="forum"></attvalue>
+          <attvalue for="aextension_url" value=".net"></attvalue>
+          <attvalue for="aaddressee_user" value="migrants"></attvalue>
+          <attvalue for="alocation_whois" value="usa"></attvalue>
+          <attvalue for="alocation_website" value="houston texas"></attvalue>
+          <attvalue for="alocalisation_user_country" value="spain"></attvalue>
+          <attvalue for="aarchiving_frequence" value="weekly"></attvalue>
+          <attvalue for="ablabla" value="lalala"></attvalue>
         </attvalues>
         <viz:size value="54.411766"></viz:size>
         <viz:position x="29.405989" y="1566.1614" z="0.0"></viz:position>
@@ -29,6 +57,18 @@
           <attvalue for="adesc_01" value="corpus"></attvalue>
           <attvalue for="atype" value="corpus"></attvalue>
           <attvalue for="acategory" value="business"></attvalue>
+          <attvalue for="asubcategory" value="consulting"></attvalue>
+          <attvalue for="anb_of_languages" value="1"></attvalue>
+          <attvalue for="alanguages" value="french"></attvalue>
+          <attvalue for="amain_language" value="french"></attvalue>
+          <attvalue for="ainteraction" value="forum"></attvalue>
+          <attvalue for="aextension_url" value=".com"></attvalue>
+          <attvalue for="aaddressee_user" value="migrants"></attvalue>
+          <attvalue for="alocation_whois" value="france"></attvalue>
+          <attvalue for="alocation_website" value="clichy-93"></attvalue>
+          <attvalue for="alocalisation_user_country" value="france"></attvalue>
+          <attvalue for="aarchiving_frequence" value="weekly"></attvalue>
+          <attvalue for="ablabla" value="lalala"></attvalue>
         </attvalues>
         <viz:size value="102.94118"></viz:size>
         <viz:position x="935.27966" y="805.2539" z="0.0"></viz:position>
@@ -44,6 +84,15 @@
           <attvalue for="asubcategory" value="students/qualified"></attvalue>
           <attvalue for="anb_of_languages" value="1"></attvalue>
           <attvalue for="alanguages" value="french"></attvalue>
+          <attvalue for="amain_language" value="french"></attvalue>
+          <attvalue for="ainteraction" value="mail"></attvalue>
+          <attvalue for="aextension_url" value=".fr"></attvalue>
+          <attvalue for="aaddressee_user" value="migrants"></attvalue>
+          <attvalue for="alocation_whois" value="france"></attvalue>
+          <attvalue for="alocalisation_user_country" value="france"></attvalue>
+          <attvalue for="alocalisation_user" value="lille"></attvalue>
+          <attvalue for="aarchiving_frequence" value="monthly"></attvalue>
+          <attvalue for="ablabla" value="lalala"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
         <viz:position x="-268.80237" y="1214.7377" z="0.0"></viz:position>
