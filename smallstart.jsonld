@@ -30,7 +30,7 @@
 ｛	"id":"59",	"label":"20211216003655438r4IN1evYv43CShn4J",	"x":"16",	"y":"4",	"size":"4",	"url":""	}
 ],	
 
-"edges: [				
+"edges": [				
 {	"id":"1",	"source":"1",	"target":"59"	}
 ]				
 }				
