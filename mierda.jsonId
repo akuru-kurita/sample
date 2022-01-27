@@ -1,8 +1,7 @@
 {
 "nodes": [
-  {"id":"0", "label": "kuuu@kururkuri", "x":1, "y":2, "size":4 },
- {  "id":"1","label":"galav********@gmail.com", "x":1,"y":2, "size":2 },
- {"id":"2", "label":"sakra*****@gmail.com", "x":2, "y":2,"size":7 },
+{"id":"1","label":"galav********@gmail.com", "x":1,"y":2, "size":2 },
+{"id":"2", "label":"sakra*****@gmail.com", "x":2, "y":2,"size":7 },
 {"id":"3","label":"nilom*******@gmail.com","x":3,"y":2,"size":1,"url":""},
 {"id":"4","label":"judvm***@gmail.com","x":4,"y":2,"size":4,"url":""},
 {"id":"5","label":"nilin*********@gmail.com","x":5,"y":2,"size":3,"url":""},
