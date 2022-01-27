@@ -1,5 +1,6 @@
 {
-"nodes": [							
+    "nodes": [
+
 ｛	"id":"1",	"label":"galav********@gmail.com",	"x":"1",	"y":"2",	"size":"2",	"url":""	},
 ｛	"id":"2",	"label":"sakra*****@gmail.com",	"x":"2",	"y":"2",	"size":"7",	"url":""	},
 ｛	"id":"3",	"label":"nilom*******@gmail.com",	"x":"3",	"y":"2",	"size":"1",	"url":""	},
@@ -61,7 +62,7 @@
 ｛	"id":"59",	"label":"20211216003655438r4IN1evYv43CShn4J",	"x":"16",	"y":"4",	"size":"4",	"url":""	}
 ],	
 
-"edges: [				
+"edges": [				
 {	"id":"1",	"source":"17",	"target":"1"	},
 {	"id":"2",	"source":"18",	"target":"2"	},
 {	"id":"3",	"source":"19",	"target":"2"	},
