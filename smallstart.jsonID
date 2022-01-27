@@ -1,0 +1,36 @@
+{
+"nodes": [
+｛
+	"id":"1",
+	"label":"galav********@gmail.com",
+	"x":"1",
+	"y":"2",
+	"size":"2",
+	"url":""
+},
+｛
+	"id":"2",
+	"label":"sakra*****@gmail.com",
+	"x":"2",
+	"y":"2",
+	"size":"7",
+	"url":""
+},
+｛	"id":"3",	"label":"nilom*******@gmail.com",	"x":"3",	"y":"2",	"size":"1",	"url":""	},
+｛	"id":"10",	"label":"ahame*********@gmail.com",	"x":"10",	"y":"2",	"size":"2",	"url":""	},
+｛	"id":"11",	"label":"depti***********@gmail.com",	"x":"11",	"y":"2",	"size":"2",	"url":""	},
+｛	"id":"12",	"label":"nondi**********@gmail.com",	"x":"12",	"y":"2",	"size":"2",	"url":""	},
+｛	"id":"17",	"label":"126.150.93.71",	"x":"1",	"y":"1",	"size":"2",	"url":""	},
+｛	"id":"18",	"label":"118.156.88.96",	"x":"2",	"y":"1",	"size":"2",	"url":""	},
+｛	"id":"34",	"label":"434005",	"x":"1",	"y":"3",	"size":"11",	"url":""	},
+｛	"id":"35",	"label":"358419",	"x":"2",	"y":"3",	"size":"4",	"url":""	},
+｛	"id":"36",	"label":"358787",	"x":"3",	"y":"3",	"size":"6",	"url":""	},
+｛	"id":"44",	"label":"20211224212005020bI33hFPJFApmcCsrF",	"x":"1",	"y":"4",	"size":"6",	"url":""	},
+｛	"id":"45",	"label":"20211229223650590DdUUmJZFDHdD3yC0k",	"x":"2",	"y":"4",	"size":"2",	"url":""	},
+｛	"id":"59",	"label":"20211216003655438r4IN1evYv43CShn4J",	"x":"16",	"y":"4",	"size":"4",	"url":""	}
+],	
+
+"edges: [				
+{	"id":"1",	"source":"1",	"target":"59"	}
+]				
+}				
