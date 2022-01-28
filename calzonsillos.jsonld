@@ -1,6 +1,6 @@
 {
 "nodes": [
-{"id":"1","label":"galav********@gmail.com","x":1,"y":2,"size":3,"url":"", "color":"blue"},
+{"id":"1","label":"galav********@gmail.com","x":1,"y":2,"size":3,"url":""},
 {"id":"2","label":"sakra*****@gmail.com","x":2,"y":2,"size":10.5,"url":""},
 {"id":"3","label":"nilom*******@gmail.com","x":3,"y":2,"size":1.5,"url":""},
 {"id":"4","label":"judvm***@gmail.com","x":4,"y":2,"size":6,"url":""},
@@ -33,7 +33,7 @@
 {"id":"31","label":"60.70.54.178","x":15,"y":1,"size":3,"url":""},
 {"id":"32","label":"60.112.52.98","x":16,"y":1,"size":3,"url":""},
 {"id":"33","label":"121.109.76.12","x":17,"y":1,"size":3,"url":""},
-{"id":"34","label":"434005","x":1,"y":3,"size":16.5,"url":""},
+{"id":"34","label":"434005","x":1,"y":3,"size":16.5, "color":"blue"},
 {"id":"35","label":"358419","x":2,"y":3,"size":6,"url":""},
 {"id":"36","label":"358787","x":3,"y":3,"size":9,"url":""},
 {"id":"37","label":"470891","x":4,"y":3,"size":9,"url":""},
