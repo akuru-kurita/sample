@@ -1,6 +1,6 @@
 {
 "nodes": [
-{"id":"1","label":"galav********@gmail.com","x":1,"y":2,"size":3,"url":""},
+{"id":"1","label":"galav********@gmail.com","x":1,"y":2,"size":3,"url":"", "color":"#727EE0"},
 {"id":"2","label":"sakra*****@gmail.com","x":2,"y":2,"size":10.5,"url":""},
 {"id":"3","label":"nilom*******@gmail.com","x":3,"y":2,"size":1.5,"url":""},
 {"id":"4","label":"judvm***@gmail.com","x":4,"y":2,"size":6,"url":""},
