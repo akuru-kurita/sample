@@ -1,10 +1,10 @@
 {
 "nodes": [
 
-{"id":"1", "label":"222.231xx.xx", "size":1},
-{"id":"2", "label":"183.86xx.xx", "size":1},
-{"id":"3", "label":"118.8xx.xx", "size":5},
-{"id":"4", "label":"180.14xx.xx", "size":1},
+{"id":"1", "label":"222.231xx.xx", "size":1, "x":1, "y":2 },
+{"id":"2", "label":"183.86xx.xx", "size":1, "x":1, "y":3 },
+{"id":"3", "label":"118.8xx.xx", "size":5, "x":1, "y":4 },
+{"id":"4", "label":"180.14xx.xx", "size":1, "x":1, "y":5 },
 {"id":"5", "label":"106.128xx.xx", "size":56},
 {"id":"6", "label":"1.75xx.xx", "size":37},
 {"id":"7", "label":"218.224xx.xx", "size":1},
@@ -22,3 +22,4 @@
   
 ]
 }
+
