@@ -4,21 +4,15 @@
 {"id":"1", "label":"222.231xx.xx", "size":1, "x":1, "y":2 },
 {"id":"2", "label":"183.86xx.xx", "size":1, "x":1, "y":3 },
 {"id":"3", "label":"118.8xx.xx", "size":5, "x":1, "y":4 },
-{"id":"4", "label":"180.14xx.xx", "size":1, "x":1, "y":5 },
-{"id":"5", "label":"106.128xx.xx", "size":56},
-{"id":"6", "label":"1.75xx.xx", "size":37},
-{"id":"7", "label":"218.224xx.xx", "size":1},
-{"id":"8", "label":"126.2xx.xx", "size":3},
-{"id":"9", "label":"116.82xx.xx", "size":6},
-{"id":"10", "label":"217.178xx.xx", "size":30}
+{"id":"4", "label":"180.14xx.xx", "size":1, "x":1, "y":5 }
+
 ],
   
 "edges": [
   
 {"id":"4615", "source":"1", "target":"2"},
 {"id":"4616", "source":"2", "target":"3"},
-{"id":"4617", "source":"2", "target":"4"},
-{"id":"4618", "source":"6", "target":"5"}
+{"id":"4617", "source":"2", "target":"4"}
   
 ]
 }
